@@ -22,7 +22,7 @@
 
 <img width="1240" alt="image" src="https://user-images.githubusercontent.com/48742165/166150208-b2c150f8-77f9-43d8-8c51-9ad6fe9f2184.png">
 
-## 4.실습코드 commit 컨벤션
+## 4.commit 컨벤션
 ### 1. 메시지 구조
 
 먼저 커밋 메시지는 크게 **제목, 본문** 세 가지 파트로 나누고, 각 파트는 빈줄을 두어서 구분합니다.
