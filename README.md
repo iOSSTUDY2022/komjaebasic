@@ -12,14 +12,11 @@
   - example 브랜치를 참고해주세요.
 
 ## 3.이슈작성 방법
-- 챕터별로 이슈를 작성해주세요.
-- 이슈 description 작성은 `Issue 템플릿`을 이용하여 작성해주세요.
-- 이슈 title, description 작성법은 아래와 같습니다.
+- 챕터별로 `Issue 템플릿`을 이용하여 이슈를 작성해주세요.
+- 이슈 title, 작성법은 아래와 같습니다.
   - 이슈 title은 책 챕터 메인 타이틀을 작성해주세요.
   
     ex) [Chapter01] 첫 번재 iOS 앱 만들기
-  - 이슈 description은 챕터별로 정리해야 할 내용을 - [ ] 형식으로 리스트업 해주세요.
-    - 완료된 내용은 체크박스에 체크 해주세요.
   - Assignees, Labels, Projects, Milestone을 설정해주세요.
 
 
