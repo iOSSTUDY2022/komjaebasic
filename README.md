@@ -1,7 +1,7 @@
-# 💡 komjaebasic
+## 1.komjaebasic
 - [꼼꼼한 재은씨 기본편](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=144264387/)  개념 및 실습코드를 정리하는 공간입니다.
 
-# 💡 과제 진행방법
+## 2.과제 진행방법
 - 과제는 `main` 브랜치로부터 챕터별로 분기하여 진행합니다.
 - 브랜치명은 `chapter` + `#num` 형식으로 작성해주세요.
 
@@ -11,7 +11,7 @@
   - 개념 및 실습 코드는 각각 `concept`, `practice` 폴더에 `push` 해주세요.
   - example 브랜치를 참고해주세요.
 
-# 💡 이슈작성 방법
+## 3.이슈작성 방법
 - 챕터별로 이슈를 작성해주세요.
 - 이슈 description 작성은 `Issue 템플릿`을 이용하여 작성해주세요.
 - 이슈 title, description 작성법은 아래와 같습니다.
@@ -25,7 +25,7 @@
 
 <img width="1240" alt="image" src="https://user-images.githubusercontent.com/48742165/166150208-b2c150f8-77f9-43d8-8c51-9ad6fe9f2184.png">
 
-# 💡 실습코드 commit 컨벤션
+## 4.실습코드 commit 컨벤션
 ### 1. 메시지 구조
 
 먼저 커밋 메시지는 크게 **제목, 본문** 세 가지 파트로 나누고, 각 파트는 빈줄을 두어서 구분합니다.
